@@ -1,0 +1,24 @@
+[submodule "assets/projects/java/backend-java"]
+	path = assets/projects/java/backend-java
+	url = https://github.com/perom-azizbek/backend-java.git
+[submodule "assets/projects/react/ticketmaster"]
+	path = assets/projects/react/ticketmaster
+	url = https://github.com/Multiverse-Cardinals/ticketmaster.git
+[submodule "assets/projects/react/snkrs-app"]
+	path = assets/projects/react/snkrs-app
+	url = https://github.com/Easy-Scrum-Easy-Go/snkrs-app.git
+[submodule "assets/projects/express/express-get-restaurants"]
+	path = assets/projects/express/express-get-restaurants
+	url = https://github.com/perompen/express-get-restaurants.git
+[submodule "assets/projects/node/coin-collector"]
+	path = assets/projects/node/coin-collector
+	url = https://github.com/perompen/coin-collector.git
+[submodule "assets/projects/react/pokeverse"]
+	path = assets/projects/react/pokeverse
+	url = https://github.com/perompen/pokeverse.git
+[submodule "assets/projects/javascript/static-bag"]
+	path = assets/projects/javascript/static-bag
+	url = https://github.com/perompen/static-bag.git
+[submodule "assets/projects/restful api/react_user_db_fetch_calls"]
+	path = assets/projects/restful api/react_user_db_fetch_calls
+	url = https://github.com/perompen/react_user_db_fetch_calls.git
